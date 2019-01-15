@@ -14,7 +14,7 @@ https://mvnrepository.com/
         <!-- spring版本 -->
         <spring.version>4.3.0.RELEASE</spring.version>
  </properties>
- 子项目可能会用到的标签  在在项目引用值用aid   g id  版本号有父项目统一管理
+ 子项目可能会用到的标签  在在项目引用值用artifactId  groupId版本号有父项目统一管理
  <dependencyManagement>
    <dependencies>
 
